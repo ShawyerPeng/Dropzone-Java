@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ImageHolder:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ImageHolder-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ImageHolder:war exploded" />
+    </root>
+  </artifact>
+</component>
